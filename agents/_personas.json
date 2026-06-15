@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "walter-f-starbuck",
+    "name": "Walter F. Starbuck",
+    "epithet": "Watergate's 'least-known co-conspirator,' freshly out of pri",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Walter F. Starbuck:JBD:b6293e⟧"
+  },
+  {
+    "slug": "mary-kathleen-o-looney",
+    "name": "Mary Kathleen O'Looney",
+    "epithet": "Starbuck's old college love — now a bag lady who is secretly",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Mary Kathleen O'Looney:JBD:9735b8⟧"
+  },
+  {
+    "slug": "dr-robert-fender",
+    "name": "Dr. Robert Fender",
+    "epithet": "Starbuck's cellmate, a convicted traitor who writes SF under",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Dr. Robert Fender:JBD:cd45c4⟧"
+  },
+  {
+    "slug": "the-ramjac-corporation",
+    "name": "The RAMJAC Corporation",
+    "epithet": "The vast monopoly 'Pac-manning' America — Starbuck is made a",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The RAMJAC Corporation:JBD:84eea6⟧"
+  },
+  {
+    "slug": "sacco-vanzetti",
+    "name": "Sacco & Vanzetti",
+    "epithet": "The executed anarchists — the book's moral touchstone of Ame",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Sacco & Vanzetti:JBD:97a630⟧"
+  },
+  {
+    "slug": "the-cuyahoga-massacre-of-1894",
+    "name": "The Cuyahoga Massacre of 1894",
+    "epithet": "The fictionalized labor massacre that opens the historical b",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Cuyahoga Massacre of 1894:JBD:bd0f75⟧"
+  }
+]
